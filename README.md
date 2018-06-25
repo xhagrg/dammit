@@ -5,7 +5,7 @@ How to use?
   
   1. clone the repo `git clone git@github.com:xhagrg/dammit.git`
   2. `cd dammit`
-  3. `python setup.py install dammit`
+  3. `python setup.py install`
   4. Then in your command line open python command prompt
   5. `from dammit import Dammit`
   6. `Dammit.dammit(<your choice of word or sentence>)`
